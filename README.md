@@ -1,2 +1,1 @@
-# dlide
-Digital Logic IDE based on Eclipse
+# elide - Embedded Logic IDE based on Eclipse
